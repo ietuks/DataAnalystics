@@ -1,2 +1,2 @@
-# UT-DataAnalystics
-UT Austin Data Analytics
+# R and RapidMiner-DataAnalystics
+Data Analytics
